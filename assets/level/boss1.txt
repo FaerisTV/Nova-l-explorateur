@@ -1,0 +1,7 @@
+MainCharacter,580,516,100,115
+Companion,530,520,50,65
+Obstacle,-1,0,1,800
+Obstacle,0,632,1280,10
+Obstacle,1280,0,1,800
+Door,1100,440,110,190
+ClassicBoss,950,332,300,300

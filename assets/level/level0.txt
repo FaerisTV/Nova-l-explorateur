@@ -1,0 +1,11 @@
+MainCharacter,360,470,100,115
+Companion,75,500,50,65
+Obstacle,-1,0,1,800
+Obstacle,0,590,3840,130
+Obstacle,960,505,210,85
+Obstacle,1840,505,80,85
+Obstacle,3840,0,1,800
+FlashbackObject,2400,400,40,40,1,Congratulations you can<br>now complete the level.
+ws
+Enemy,1610,475,100,115,1
+Door,3300,400,110,190

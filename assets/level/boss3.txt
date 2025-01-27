@@ -1,0 +1,6 @@
+MainCharacter,580,516,100,115
+Companion,530,520,50,65
+Obstacle,-1,0,1,800
+Obstacle,0,632,1280,10
+Obstacle,1280,0,1,800
+FinalBoss,1050,511,55,120
